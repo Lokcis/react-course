@@ -1,0 +1,22 @@
+/* Clase .card:
+   Estilo general para tarjetas o contenedores.
+   - Fondo oscuro (#202020)
+   - Texto de color 'aliceblue' (azul muy claro)
+   - Relleno interno de 10 píxeles para separación del contenido */
+   .card {
+    background-color: #202020;
+    color: aliceblue;
+    padding: 10px;
+}
+
+/* Clase .bg-red:
+   Aplica un fondo rojo al elemento que la use */
+.bg-red {
+    background: red;
+}
+
+/* Clase .bg-green:
+   Aplica un fondo verde al elemento que la use */
+.bg-green {
+    background: green;
+}
